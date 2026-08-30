@@ -1,0 +1,1 @@
+import"clsx";import{aN as s,ae as a}from"./uuid.js";class i{isIOSDevice=!1;isIOSSafari=!1;isStandalone=!1;isWKWebView=!1;systemTheme={isDark:!1};mobile=new s(`max-width: ${a-1}px`);get isMobile(){return this.mobile.current}constructor(){}}const l=new i;class r{isSidebarExpanded=!1}const n=new r;export{l as d,n as u};

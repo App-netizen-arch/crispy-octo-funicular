@@ -1,0 +1,601 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_internal.js",
+      "_server.js",
+      "_internal2.js"
+    ]
+  },
+  "_ActionIcon.js": {
+    "file": "chunks/ActionIcon.js",
+    "name": "ActionIcon",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_index4.js",
+      "_uuid.js"
+    ]
+  },
+  "_DialogConfirmation.js": {
+    "file": "chunks/DialogConfirmation.js",
+    "name": "DialogConfirmation",
+    "imports": [
+      "_root.js",
+      "_uuid.js",
+      "_index2.js",
+      "_keyboard.enums.js",
+      "_alert-dialog-cancel.js"
+    ]
+  },
+  "_DialogModelNotAvailable.js": {
+    "file": "chunks/DialogModelNotAvailable.js",
+    "name": "DialogModelNotAvailable",
+    "imports": [
+      "_root.js",
+      "_exports.js",
+      "_utils2.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_index2.js",
+      "_arrow-right.js"
+    ]
+  },
+  "_SearchInput.js": {
+    "file": "chunks/SearchInput.js",
+    "name": "SearchInput",
+    "imports": [
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_root.js",
+      "_TruncatedText.js",
+      "_uuid.js",
+      "_input.js"
+    ]
+  },
+  "_SidebarNavigationConversationItem.DihI6Xld.css": {
+    "file": "_app/immutable/assets/SidebarNavigationConversationItem.DihI6Xld.css",
+    "src": "_SidebarNavigationConversationItem.DihI6Xld.css"
+  },
+  "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js": {
+    "file": "chunks/SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+    "name": "SidebarNavigationConversationItem.svelte_svelte_type_style_lang",
+    "imports": [
+      "_uuid.js",
+      "_root.js",
+      "_server.js",
+      "_exports.js",
+      "_utils2.js",
+      "_index.js"
+    ],
+    "dynamicImports": [
+      "virtual:nerdamer"
+    ],
+    "css": [
+      "_app/immutable/assets/SidebarNavigationConversationItem.DihI6Xld.css"
+    ]
+  },
+  "_SidebarNavigationSearchResults.js": {
+    "file": "chunks/SidebarNavigationSearchResults.js",
+    "name": "SidebarNavigationSearchResults",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_index4.js",
+      "_uuid.js",
+      "_exports.js",
+      "_utils2.js",
+      "_index.svelte.js",
+      "_SearchInput.js",
+      "_TruncatedText.js"
+    ]
+  },
+  "_TruncatedText.js": {
+    "file": "chunks/TruncatedText.js",
+    "name": "TruncatedText",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js"
+    ]
+  },
+  "_alert-dialog-cancel.js": {
+    "file": "chunks/alert-dialog-cancel.js",
+    "name": "alert-dialog-cancel",
+    "imports": [
+      "_root.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js"
+    ]
+  },
+  "_api-key-validation.js": {
+    "file": "chunks/api-key-validation.js",
+    "name": "api-key-validation",
+    "imports": [
+      "_exports.js",
+      "_root.js",
+      "_uuid.js",
+      "_utils2.js"
+    ]
+  },
+  "_app.constants.js": {
+    "file": "chunks/app.constants.js",
+    "name": "app.constants"
+  },
+  "_arrow-right.js": {
+    "file": "chunks/arrow-right.js",
+    "name": "arrow-right",
+    "imports": [
+      "_root.js",
+      "_uuid.js"
+    ]
+  },
+  "_card.js": {
+    "file": "chunks/card.js",
+    "name": "card",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_uuid.js"
+    ]
+  },
+  "_dialog-description.bHHIbcsu.css": {
+    "file": "_app/immutable/assets/dialog-description.bHHIbcsu.css",
+    "src": "_dialog-description.bHHIbcsu.css"
+  },
+  "_dialog-description.js": {
+    "file": "chunks/dialog-description.js",
+    "name": "dialog-description",
+    "imports": [
+      "_popper-layer-force-mount.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_root.js",
+      "_uuid.js",
+      "_index3.js",
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/dialog-description.bHHIbcsu.css"
+    ]
+  },
+  "_dialog-footer.js": {
+    "file": "chunks/dialog-footer.js",
+    "name": "dialog-footer",
+    "imports": [
+      "_root.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_TruncatedText.js"
+    ]
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index",
+    "imports": [
+      "_root.js"
+    ]
+  },
+  "_index.svelte.js": {
+    "file": "chunks/index.svelte.js",
+    "name": "index.svelte",
+    "imports": [
+      "_root.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_exports.js"
+    ]
+  },
+  "_index2.js": {
+    "file": "chunks/index2.js",
+    "name": "index",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js"
+    ]
+  },
+  "_index3.js": {
+    "file": "chunks/index3.js",
+    "name": "index",
+    "imports": [
+      "_root.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_exports.js",
+      "_utils2.js",
+      "_TruncatedText.js",
+      "_index2.js"
+    ]
+  },
+  "_index4.js": {
+    "file": "chunks/index4.js",
+    "name": "index",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_popper-layer-force-mount.js"
+    ]
+  },
+  "_init.js": {
+    "file": "chunks/init.js",
+    "name": "init",
+    "imports": [
+      "_exports.js",
+      "_utils2.js",
+      "_root.js",
+      "_uuid.js"
+    ]
+  },
+  "_input.js": {
+    "file": "chunks/input.js",
+    "name": "input",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal"
+  },
+  "_internal2.js": {
+    "file": "chunks/internal2.js",
+    "name": "internal",
+    "imports": [
+      "_root.js",
+      "_internal.js",
+      "_server.js"
+    ]
+  },
+  "_keyboard.enums.js": {
+    "file": "chunks/keyboard.enums.js",
+    "name": "keyboard.enums"
+  },
+  "_label.js": {
+    "file": "chunks/label.js",
+    "name": "label",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js"
+    ]
+  },
+  "_pencil.js": {
+    "file": "chunks/pencil.js",
+    "name": "pencil",
+    "imports": [
+      "_root.js",
+      "_uuid.js"
+    ]
+  },
+  "_popper-layer-force-mount.js": {
+    "file": "chunks/popper-layer-force-mount.js",
+    "name": "popper-layer-force-mount",
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_uuid.js"
+    ]
+  },
+  "_refresh-cw.js": {
+    "file": "chunks/refresh-cw.js",
+    "name": "refresh-cw",
+    "imports": [
+      "_root.js",
+      "_uuid.js"
+    ]
+  },
+  "_root.js": {
+    "file": "chunks/root.js",
+    "name": "root"
+  },
+  "_server.js": {
+    "file": "chunks/server.js",
+    "name": "server"
+  },
+  "_ui.svelte.js": {
+    "file": "chunks/ui.svelte.js",
+    "name": "ui.svelte",
+    "imports": [
+      "_uuid.js"
+    ]
+  },
+  "_use-marquee-selection.svelte.js": {
+    "file": "chunks/use-marquee-selection.svelte.js",
+    "name": "use-marquee-selection.svelte",
+    "imports": [
+      "_uuid.js"
+    ]
+  },
+  "_utils.js": {
+    "file": "chunks/utils.js",
+    "name": "utils",
+    "imports": [
+      "_utils2.js"
+    ]
+  },
+  "_utils2.js": {
+    "file": "chunks/utils2.js",
+    "name": "utils"
+  },
+  "_uuid.js": {
+    "file": "chunks/uuid.js",
+    "name": "uuid",
+    "imports": [
+      "_root.js",
+      "_exports.js",
+      "_utils2.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js": {
+    "file": "remote-entry.js",
+    "name": "remote-entry",
+    "src": "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_server.js",
+      "_internal.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_utils.js",
+      "_root.js",
+      "_server.js",
+      "_exports.js",
+      "_utils2.js",
+      "_index.js",
+      "_internal2.js"
+    ]
+  },
+  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": {
+    "file": "chunks/workbox-window.prod.es5.js",
+    "name": "workbox-window.prod.es5",
+    "src": "node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+    "isDynamicEntry": true
+  },
+  "src/routes/(chat)/+layout.svelte": {
+    "file": "entries/pages/(chat)/_layout.svelte.js",
+    "name": "entries/pages/(chat)/_layout.svelte",
+    "src": "src/routes/(chat)/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_SearchInput.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_uuid.js",
+      "_exports.js",
+      "_utils2.js",
+      "_ActionIcon.js",
+      "_DialogConfirmation.js",
+      "_index2.js",
+      "_alert-dialog-cancel.js",
+      "_index.svelte.js",
+      "_ui.svelte.js",
+      "_dialog-footer.js",
+      "_input.js",
+      "_label.js",
+      "_dialog-description.js",
+      "_index3.js",
+      "_refresh-cw.js",
+      "_arrow-right.js",
+      "_TruncatedText.js",
+      "_index4.js",
+      "_card.js",
+      "_keyboard.enums.js",
+      "_popper-layer-force-mount.js"
+    ]
+  },
+  "src/routes/(chat)/+page.svelte": {
+    "file": "entries/pages/(chat)/_page.svelte.js",
+    "name": "entries/pages/(chat)/_page.svelte",
+    "src": "src/routes/(chat)/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_exports.js",
+      "_utils2.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_app.constants.js",
+      "_DialogModelNotAvailable.js"
+    ]
+  },
+  "src/routes/(chat)/+page.ts": {
+    "file": "entries/pages/(chat)/_page.ts.js",
+    "name": "entries/pages/(chat)/_page.ts",
+    "src": "src/routes/(chat)/+page.ts",
+    "isEntry": true,
+    "imports": [
+      "_init.js",
+      "_uuid.js",
+      "_exports.js",
+      "_root.js",
+      "_api-key-validation.js",
+      "_utils2.js"
+    ]
+  },
+  "src/routes/(chat)/chat/[id]/+page.svelte": {
+    "file": "entries/pages/(chat)/chat/_id_/_page.svelte.js",
+    "name": "entries/pages/(chat)/chat/_id_/_page.svelte",
+    "src": "src/routes/(chat)/chat/[id]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_exports.js",
+      "_utils2.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_app.constants.js",
+      "_DialogModelNotAvailable.js"
+    ]
+  },
+  "src/routes/(chat)/chat/[id]/+page.ts": {
+    "file": "entries/pages/(chat)/chat/_id_/_page.ts.js",
+    "name": "entries/pages/(chat)/chat/_id_/_page.ts",
+    "src": "src/routes/(chat)/chat/[id]/+page.ts",
+    "isEntry": true,
+    "imports": [
+      "_init.js",
+      "_uuid.js",
+      "_exports.js",
+      "_root.js",
+      "_api-key-validation.js",
+      "_utils2.js"
+    ]
+  },
+  "src/routes/+error.svelte": {
+    "file": "entries/pages/_error.svelte.js",
+    "name": "entries/pages/_error.svelte",
+    "src": "src/routes/+error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_exports.js",
+      "_utils2.js",
+      "_uuid.js",
+      "_app.constants.js",
+      "_server.js",
+      "_input.js",
+      "_label.js",
+      "_keyboard.enums.js",
+      "_refresh-cw.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_exports.js",
+      "_utils2.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_index4.js",
+      "_DialogConfirmation.js",
+      "_server.js",
+      "_SearchInput.js",
+      "_ActionIcon.js",
+      "_index.svelte.js",
+      "_ui.svelte.js",
+      "_use-marquee-selection.svelte.js",
+      "_index2.js",
+      "_input.js",
+      "_pencil.js",
+      "_alert-dialog-cancel.js",
+      "_SidebarNavigationSearchResults.js",
+      "_app.constants.js",
+      "_card.js",
+      "_index.js",
+      "_init.js"
+    ],
+    "dynamicImports": [
+      "node_modules/workbox-window/build/workbox-window.prod.es5.mjs"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.ApMZMbnm.css"
+    ]
+  },
+  "src/routes/mcp-servers/+page.svelte": {
+    "file": "entries/pages/mcp-servers/_page.svelte.js",
+    "name": "entries/pages/mcp-servers/_page.svelte",
+    "src": "src/routes/mcp-servers/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_exports.js",
+      "_utils2.js",
+      "_root.js",
+      "_uuid.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_ActionIcon.js",
+      "_index3.js",
+      "_dialog-footer.js",
+      "_input.js",
+      "_alert-dialog-cancel.js",
+      "_card.js",
+      "_pencil.js",
+      "_refresh-cw.js",
+      "_index2.js"
+    ]
+  },
+  "src/routes/search/+page.svelte": {
+    "file": "entries/pages/search/_page.svelte.js",
+    "name": "entries/pages/search/_page.svelte",
+    "src": "src/routes/search/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_SearchInput.js",
+      "_uuid.js",
+      "_exports.js",
+      "_index.svelte.js",
+      "_SidebarNavigationSearchResults.js"
+    ]
+  },
+  "src/routes/settings/+layout.svelte": {
+    "file": "entries/pages/settings/_layout.svelte.js",
+    "name": "entries/pages/settings/_layout.svelte",
+    "src": "src/routes/settings/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_ActionIcon.js",
+      "_uuid.js",
+      "_exports.js",
+      "_root.js"
+    ]
+  },
+  "src/routes/settings/[[section]]/+page.svelte": {
+    "file": "entries/pages/settings/__section__/_page.svelte.js",
+    "name": "entries/pages/settings/__section__/_page.svelte",
+    "src": "src/routes/settings/[[section]]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_exports.js",
+      "_utils2.js",
+      "_root.js",
+      "_uuid.js",
+      "_SearchInput.js",
+      "_SidebarNavigationConversationItem.svelte_svelte_type_style_lang.js",
+      "_dialog-description.js",
+      "_index2.js",
+      "_alert-dialog-cancel.js",
+      "_label.js",
+      "_DialogConfirmation.js",
+      "_use-marquee-selection.svelte.js",
+      "_index3.js",
+      "_input.js",
+      "_TruncatedText.js",
+      "_popper-layer-force-mount.js",
+      "_refresh-cw.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CV-KWLNP.css"
+    ]
+  },
+  "virtual:__sveltekit/env": {
+    "file": "env.js",
+    "name": "env",
+    "src": "virtual:__sveltekit/env",
+    "isEntry": true
+  },
+  "virtual:nerdamer": {
+    "file": "chunks/_virtual_nerdamer.js",
+    "name": "_virtual_nerdamer",
+    "src": "virtual:nerdamer",
+    "isDynamicEntry": true
+  }
+}
