@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/llama_cpp_sys",
+    "crates/llama_cpp",
+    "crates/llama_cpp_tests"
+]
+
+[workspace.dependencies]
+futures = "0.3.30"
+tokio = "1.36.0"
