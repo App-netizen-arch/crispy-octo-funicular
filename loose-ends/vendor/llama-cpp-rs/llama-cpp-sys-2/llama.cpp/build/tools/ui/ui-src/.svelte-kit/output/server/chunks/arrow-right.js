@@ -1,0 +1,1 @@
+import{s}from"./root.js";import{I as p}from"./uuid.js";function c(o,r){let{$$slots:a,$$events:e,...t}=r;p(o,s([{name:"arrow-right"},t,{iconNode:[["path",{d:"M5 12h14"}],["path",{d:"m12 5 7 7-7 7"}]]}]))}export{c as A};

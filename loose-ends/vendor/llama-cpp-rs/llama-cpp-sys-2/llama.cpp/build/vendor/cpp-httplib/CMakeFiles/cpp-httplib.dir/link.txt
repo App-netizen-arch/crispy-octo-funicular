@@ -1,0 +1,2 @@
+/home/amanoy/miniforge3/bin/x86_64-conda-linux-gnu-ar qc libcpp-httplib.a "CMakeFiles/cpp-httplib.dir/httplib.cpp.o"
+/home/amanoy/miniforge3/bin/x86_64-conda-linux-gnu-ranlib libcpp-httplib.a

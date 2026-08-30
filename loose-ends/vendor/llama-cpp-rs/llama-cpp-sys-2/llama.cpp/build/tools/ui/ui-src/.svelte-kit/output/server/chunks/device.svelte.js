@@ -1,0 +1,1 @@
+import"clsx";import{aL as e,ac as a}from"./uuid.js";const n=new e(`max-width: ${a-1}px`),i={isIOSDevice:!1,isIOSSafari:!1,isStandalone:!1,isWKWebView:!1};function s(){return i}const c=s();export{c as d,n as i};

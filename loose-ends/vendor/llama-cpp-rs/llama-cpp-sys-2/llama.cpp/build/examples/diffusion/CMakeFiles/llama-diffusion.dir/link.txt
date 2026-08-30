@@ -1,0 +1,2 @@
+/home/amanoy/miniforge3/bin/x86_64-conda-linux-gnu-ar qc libllama-diffusion.a "CMakeFiles/llama-diffusion.dir/diffusion.cpp.o"
+/home/amanoy/miniforge3/bin/x86_64-conda-linux-gnu-ranlib libllama-diffusion.a

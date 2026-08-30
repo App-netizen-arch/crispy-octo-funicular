@@ -1,0 +1,2 @@
+/home/amanoy/miniforge3/bin/x86_64-conda-linux-gnu-ar qc libllama-ui.a "CMakeFiles/llama-ui.dir/ui.cpp.o"
+/home/amanoy/miniforge3/bin/x86_64-conda-linux-gnu-ranlib libllama-ui.a

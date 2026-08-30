@@ -1,0 +1,20 @@
+root      ::= "[" ws ( obj (ws "," ws obj)* )? ws "]"
+obj       ::= "{" ws "\"commitment_found\"" ws ":" ws boolean
+              ws "," ws "\"party\"" ws ":" ws str-or-null
+              ws "," ws "\"party_confidence\"" ws ":" ws confidence
+              ws "," ws "\"description\"" ws ":" ws string
+              ws "," ws "\"direction\"" ws ":" ws direction
+              ws "," ws "\"expected_date\"" ws ":" ws date-or-null
+              ws "," ws "\"date_confidence\"" ws ":" ws confidence
+              ws "," ws "\"overall_confidence\"" ws ":" ws confidence
+              ws "}"
+boolean   ::= "true" | "false"
+confidence ::= "\"high\"" | "\"low\""
+direction ::= "\"user_owes\"" | "\"owed_to_user\"" | "\"unclear\""
+date-or-null ::= "null" | isodate
+isodate   ::= "\" digit digit digit digit "-" digit digit "-" digit digit "\"
+str-or-null ::= "null" | string
+string    ::= "\" schar* "\"
+schar     ::= [^"\x7F\x00-\x1F]
+digit     ::= [0-9]
+ws        ::= [ \t\n]*
